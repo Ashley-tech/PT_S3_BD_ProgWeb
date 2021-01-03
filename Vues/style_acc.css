@@ -1,0 +1,41 @@
+body {
+	color:black;
+	background-color:#FF0000;
+    background-attachment: fixed;
+}
+
+footer {
+	background-color: #00DD00;
+	bottom: 0;
+	left: 0;
+	color: black;
+	/* font-family: FuturaStd-Book; */
+	text-align: center;
+	width: 100%;
+	font-family: "Arial";	
+}
+
+nav {
+	background-color: #00DD00;
+	position: fixed;
+	top: 0mm;
+	width: 100%;
+	z-index: 2;
+}
+
+nav a {
+	color: black;
+	font-size: 150%;
+	font-family: "Arial";
+	margin: 6%;
+	text-decoration: none;
+	width: 25mm;
+}
+
+h1, h2 {
+	color: white;
+	display: block;
+	font-family: Arial;
+	font-size: 5em;
+	margin-left: 10%;
+}
